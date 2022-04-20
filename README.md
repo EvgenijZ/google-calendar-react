@@ -1,6 +1,6 @@
 # Google Calendar
 
-### [Site link](https://evgenijz.github.io/google-calendar-react/)
+### [Site link](https://gleeful-dusk-eb19e4.netlify.app/)
 
 A simple version of a popular modern calendar
 
@@ -16,4 +16,5 @@ A simple version of a popular modern calendar
 ### Author
 
 - Zerkalov Eugenij
+
 # google-calendar-react
