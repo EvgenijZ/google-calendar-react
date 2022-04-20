@@ -16,5 +16,3 @@ A simple version of a popular modern calendar
 ### Author
 
 - Zerkalov Eugenij
-
-# google-calendar-react
